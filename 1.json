@@ -4,6 +4,8 @@
 {
   "spider": "./jar/xo.jar;md5;4bd2275690262e2b338920201a674539",
   "sites": [
+    {"key":"teng","name":"腾讯视频 | 解析","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1},
+    {"key":"ai","name":"爱奇艺 | 解析","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
     {"key": "Kunyu","name": "👒酷云‍七七","type": 3,"api": "csp_Kunyu77", "searchable": 1, "quickSearch": 1, "filterable": 1 }, 
     { "key": "AppTT", "name": "🐰图图", "type": "3", "api": "csp_Dora", "searchable": "1", "quickSearch": "1", "filterable": "1", "ext": "110c922de7d69804467fb83d3bb664b5" }, 
     { "key": "mangguo", "name": "🍋芒果", "type": 3, "api": "csp_Mgtv", "searchable": 1, "quickSearch": 1, "filterable": 1 },
